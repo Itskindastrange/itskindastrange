@@ -1,12 +1,6 @@
 ## Hi there 👋 Welcome to the world of Abdullah!
 
-    ___       ___       ___       ___       ___       ___       ___       ___       ___       ___       ___       ___       ___       ___       ___   
-   /\  \     /\  \     /\  \     /\__\     /\  \     /\__\     /\  \     /\  \     /\  \     /\  \     /\  \     /\  \     /\__\     /\  \     /\  \  
-  _\:\  \    \:\  \   /::\  \   /:/ _/_   _\:\  \   /:| _|_   /::\  \   /::\  \   /::\  \    \:\  \   /::\  \   /::\  \   /:| _|_   /::\  \   /::\  \ 
- /\/::\__\   /::\__\ /\:\:\__\ /::-"\__\ /\/::\__\ /::|/\__\ /:/\:\__\ /::\:\__\ /\:\:\__\   /::\__\ /::\:\__\ /::\:\__\ /::|/\__\ /:/\:\__\ /::\:\__\
- \::/\/__/  /:/\/__/ \:\:\/__/ \;:;-",-" \::/\/__/ \/|::/  / \:\/:/  / \/\::/  / \:\:\/__/  /:/\/__/ \;:::/  / \/\::/  / \/|::/  / \:\:\/__/ \:\:\/  /
-  \:\__\    \/__/     \::/  /   |:|  |    \:\__\     |:/  /   \::/  /    /:/  /   \::/  /   \/__/     |:\/__/    /:/  /    |:/  /   \::/  /   \:\/  / 
-   \/__/               \/__/     \|__|     \/__/     \/__/     \/__/     \/__/     \/__/               \|__|     \/__/     \/__/     \/__/     \/__/  
+
 
 
 I'm a passionate computer science student fascinated by the potential of Generative AI, Machine Learning, Deep Learning, and Data Science. I'm also involved in Blockchain and cryptocurrency related projects.  
@@ -34,9 +28,9 @@ In my free time, I explore the exciting world of cryptocurrency and its potentia
 
 **CONTACT**
 
-* Email: itskindastrange.andullah@gmail.com
-* LinkedIn: [Linkedin-Abdullah] [(https://www.linkedin.com/in/abdullah-ahmad-ab7b19229/)]
-* Github: [Github-Abdullah] [(https://github.com/Itskindastrange/)]
+* Email: itskindastrange.abdullah@gmail.com
+* LinkedIn:  [https://www.linkedin.com/in/abdullah-ahmad-ab7b19229/]
+* Github: (https://github.com/Itskindastrange/)
 <!--
 **Itskindastrange/itskindastrange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
