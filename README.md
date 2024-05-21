@@ -10,10 +10,15 @@ In my free time, I explore the exciting world of cryptocurrency and its potentia
 **Skills & Technologies**
 
 **Programming Languages:** Python, C++, C, Go, Solidity, Assembly, JavaScript
+
 **Machine Learning:** TensorFlow, Keras, scikit-learn
+
 **Data Science:** Pandas, NumPy, Matplotlib
+
 **Web Development:** HTML, CSS, React.js, Django
+
 **Databases:** MS SQL
+
 **Other:** 3D Modeling, Git, Data Analysis, Research, Problem Solving
 
 **HOBBIES AND INTERESTS**
