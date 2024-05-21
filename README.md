@@ -2,9 +2,6 @@
 
 
 
-https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif
-
-
 **About Me**
 I'm a passionate computer science student fascinated by the potential of Generative AI, Machine Learning, Deep Learning, and Data Science. I'm also involved in Blockchain and cryptocurrency related projects. I'm a highly motivated learner with a strong foundation in programming. I'm eager to leverage my skills in collaborative environments and contribute to innovative projects that tackle real-world challenges.  
 
@@ -28,8 +25,8 @@ In my free time, I explore the exciting world of cryptocurrency and its potentia
 **CONTACT**
 
 * Email: itskindastrange.abdullah@gmail.com
-* LinkedIn:  [https://www.linkedin.com/in/abdullah-ahmad-ab7b19229/]
-* Github: (https://github.com/Itskindastrange/)
+* LinkedIn:  https://www.linkedin.com/in/abdullah-ahmad-ab7b19229/
+* Github: https://github.com/Itskindastrange/
 <!--
 **Itskindastrange/itskindastrange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
