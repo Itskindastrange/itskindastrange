@@ -33,7 +33,7 @@ In my free time, I explore the exciting world of cryptocurrency and its potentia
 * LinkedIn:  https://www.linkedin.com/in/abdullah-ahmad-ab7b19229/
 * Github: https://github.com/Itskindastrange/
 
- `!YOLO Achievement`
+ 
 
 <!--
 **Itskindastrange/itskindastrange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
