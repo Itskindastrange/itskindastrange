@@ -3,7 +3,7 @@
 
 
 **About Me**
-I'm a passionate computer science student fascinated by the potential of Generative AI, Machine Learning, Deep Learning, and Data Science. I'm also involved in Blockchain and cryptocurrency related projects. I'm a highly motivated learner with a strong foundation in programming. I'm eager to leverage my skills in collaborative environments and contribute to innovative projects that tackle real-world challenges.  
+I'm a passionate AI Engineer and a computer science grad. fascinated by the potential of Generative AI, Machine Learning, Deep Learning, and Data Science. I'm also involved in Blockchain and cryptocurrency related projects. I'm a highly motivated learner with a strong foundation in programming. I'm eager to leverage my skills in collaborative environments and contribute to innovative projects that tackle real-world challenges.  
 
 In my free time, I explore the exciting world of cryptocurrency and its potential impact on the future. 
 
